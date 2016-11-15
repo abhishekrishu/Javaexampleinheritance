@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Javaexample.iml" filepath="$PROJECT_DIR$/Javaexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/abstraction/abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mohit/mohit.iml" filepath="$PROJECT_DIR$/mohit/mohit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intarface/intarface.iml" filepath="$PROJECT_DIR$/intarface/intarface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overloading/overloading.iml" filepath="$PROJECT_DIR$/overloading/overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
     </modules>
   </component>
 </project>

@@ -9,9 +9,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/abstraction" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/java" />
-            <option value="$PROJECT_DIR$/mohit" />
+            <option value="$PROJECT_DIR$/inheritance" />
+            <option value="$PROJECT_DIR$/intarface" />
+            <option value="$PROJECT_DIR$/overloading" />
+            <option value="$PROJECT_DIR$/overriding" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
