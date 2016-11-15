@@ -18,9 +18,9 @@ package com.example.MyClas;
 
 
 
-        public void eat() {
+        public void dance() {
 
-            System.out.println("An animal eats...");
+            System.out.println("An animal dance...");
 
         }
 
@@ -49,9 +49,9 @@ package com.example.MyClas;
 
 
 
-        public void eat() {
+        public void dance() {
 
-            System.out.println("A bird eats...");
+            System.out.println("A bird dance...");
 
         }
 
@@ -81,9 +81,9 @@ package com.example.MyClas;
 
 
 
-        public void eat() {
+        public void dance() {
 
-            System.out.println("A cow eats...");
+            System.out.println("A cow dance...");
 
         }
 
@@ -106,19 +106,19 @@ package com.example.MyClas;
 
             animal.sleep();
 
-            animal.eat();
+            animal.dance();
 
 
 
             bird.sleep();
 
-            bird.eat();
+            bird.dance();
 
 
 
             cow.sleep();
 
-            cow.eat();
+            cow.dance();
 
         }
 
